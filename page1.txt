@@ -41,7 +41,8 @@ git branch branch_name ✅
 git checkout branch_name_you_want_to_move ✅
 git merge branch_name_you_want_to_move ✅
 git push 
-git pull
+git pull 
+git clone
 
 CSS [Wednesday / Thursday / Friday]
 How to link css to our html page
