@@ -1,0 +1,117 @@
+Frontend
+HTML, CSS, Bootsrap / TailwindCSS, JS, ReactJs, Redux, Git and Github
+
+Backend
+NodeJS, ExpressJS, MongoDB, MySql
+
+HTML Boiler Plate [Tuesday]
+Heading Tag (h1-h6)  ✅
+Paragraph Tag (p) ✅
+Anchor Tag ✅
+Font - Styling Tag - Bold , Italic , Underline , Delete/Strike ✅
+Break Tag ✅
+HR Tag ✅
+Mark Tag ✅
+Sub/Superscript Tag ✅
+Image Tag ✅
+List Tag   Order List, Unorder list, Description list ✅
+Table (tablerow ,tablehead, tabledata) ✅
+Form Tag ✅
+label Tag ✅
+Input Tag [Type - text, email, tel, password , number, date, time, checkbox, radio, range, file, submit, reset] ✅
+select Tag ✅
+div span ✅
+Iframe Tag ✅
+video audio ✅
+Adding favicon to our page. ✅
+
+Git [Tuesday / Wednesday] 
+git config user.name 'Your-name' ✅
+git config user.email 'Your email-address' ✅
+git init ✅
+git status ✅
+git add . ✅
+git commit -m 'your commit statement' ✅
+git diff ✅
+git log ✅
+git reset --hard commit_id ✅
+git reset --soft commit_id ✅
+git branch
+git branch branch_name
+git checkout branch_name_you_want_to_move
+git merge branch_name_you_want_to_move
+git push 
+git pull
+
+CSS [Wednesday / Thursday / Friday]
+How to link css to our html page
+CSS Selectors
+Colour and Background Styling
+Font-Styling Property
+Image Styling Property
+CSS Gradient
+1.Linear gradient
+2.Radial gradient
+Box Model
+1.Border
+2.Padding
+3.Margin
+Box Sizing
+Box Shadow
+Positions
+-static
+-absolute
+-relative
+-fixed
+-sticky
+Anchor Tag Styling
+Types of Cursor
+Oveflow property
+List stylish using css
+Display
+- Block
+- None
+- Inline
+- Inline-block
+Flex Box
+Display : flex
+Justify-content
+Align-Items
+Flex-wrap
+Z-Index
+Pseudo-Class
+Pseudo-Element
+Animation
+AOS
+Media Queries
+
+HTML - CSS Project [Saturday - Sunday]
+
+
+Schedule
+
+HTML, CSS Int Preparation
+JS Int Preparation
+ReactJS Preparation
+MySql Preparation
+
+Daily 2-3 Interview Videos - [HTML, CSS, JS, ReactJS, MySQL]
+
+Development - 1-2 Hr Mrng / 1-2Hr Evening
+
+Tell Me about Yourself + Project Deliver Preparation [Everyday]
+
+Monday -> HTML, CSS Int, Git Commands Preparation, Development, 1 Interview Video / MySQL Int Preparation,Development, 1 Interview Video
+
+Tuesday -> JS Preparation, Development, 1 Interview Video / JS Int Preparation,Development, 1 Interview Video
+
+Wednesday --> ReactJS Preparation, Development, 1 Interview Video / ReactJS Int Preparation,Development, 1 Interview Video
+
+Thursday -> HTML, CSS Int, Git Commands Preparation, Development, 1 Interview Video / MySQL Int Preparation,Development, 1 Interview Video, Tell Me about Yourself + Project Deliver Preparation
+
+Friday -> JS Preparation, Development, 1 Interview Video / JS Int Preparation,Development, 1 Interview Video
+
+Saturday -> ReactJS Preparation, Development, 1 Interview Video / ReactJS Int Preparation,Development, 1 Interview Video
+
+Sunday -> JS Preparation, Development, 1 Interview Video / JS Int Preparation,Development, 1 Interview Video
+
